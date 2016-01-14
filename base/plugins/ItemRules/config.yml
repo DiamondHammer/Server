@@ -13,9 +13,9 @@ text:
 #
 #########################################
 XP:
-    itemLevelDefaultsToXPLevel: true
-    levelIncreasesItemLevel: true
-    levelDecreasesItemLevel: true
+    itemLevelDefaultsToXPLevel: false
+    levelIncreasesItemLevel: false
+    levelDecreasesItemLevel: false
 #########################################
 #
 # Aliases are a shorthand method for
